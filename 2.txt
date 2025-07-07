@@ -1,0 +1,2 @@
+echo "Hi $(whoami),"
+echo "I'm file 2.txt"
